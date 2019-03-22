@@ -1,0 +1,411 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.15)  22 MAR 2019 13:21
+entering extended mode
+**./page1.tex
+(page1.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel-french\fren
+chb.ldf"
+Language: frenchb 2018/09/14 v3.5c French support from the babel system
+
+
+Package babel-french Warning: Option `frenchb' for Babel is *deprecated*,
+(babel-french)                it might be removed sooner or later. Please
+(babel-french)                use `french' instead; reported on input line 35.
+
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel-french\fren
+ch.ldf"
+Language: french 2018/09/14 v3.5c French support from the babel system
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
+\bbl@dirlevel=\count90
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count91
+Package babel Info: Making : an active character on input line 414.
+Package babel Info: Making ; an active character on input line 415.
+Package babel Info: Making ! an active character on input line 416.
+Package babel Info: Making ? an active character on input line 417.
+\FBguill@level=\count92
+\FBold@everypar=\toks16
+\FB@Mht=\dimen104
+\mc@charclass=\count93
+\mc@charfam=\count94
+\mc@charslot=\count95
+\std@mcc=\count96
+\dec@mcc=\count97
+\c@FBcaption@count=\count98
+\listindentFB=\dimen105
+\descindentFB=\dimen106
+\labelindentFB=\dimen107
+\labelwidthFB=\dimen108
+\leftmarginFB=\dimen109
+\parindentFFN=\dimen110
+\FBfnindent=\dimen111
+)))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/carlisle\scalefnt.s
+ty")
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/a4wide\a4wide.sty
+"
+Package: a4wide 1994/08/30
+ ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@caption@flags=\count99
+\c@ContinuedFloat=\count100
+)
+\c@KVtest=\count101
+\sf@farskip=\skip43
+\sf@captopadj=\dimen121
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count102
+\c@subfigure@save=\count103
+\c@lofdepth=\count104
+\c@subtable=\count105
+\c@subtable@save=\count106
+\c@lotdepth=\count107
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks23
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen122
+))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen123
+) ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip10
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks26
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks27
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks28
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) ("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen131
+\ar@mcellbox=\box29
+\extrarowheight=\dimen132
+\NC@list=\toks30
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box30
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
+ty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count120
+\multirow@dima=\skip57
+\bigstrutjot=\dimen133
+) (page1.aux)
+\openout1 = `page1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \degres on input line 26.
+LaTeX Info: Redefining \dots on input line 26.
+LaTeX Info: Redefining \up on input line 26.
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen134
+\scratchbox=\box31
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen135
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks32
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+
+("C:\Users\Nour\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/Image1.jpg, id=1, 81.30376pt x 101.62968pt>
+File: images/Image1.jpg Graphic file (type jpg)
+<use images/Image1.jpg>
+Package pdftex.def Info: images/Image1.jpg  used on input line 32.
+(pdftex.def)             Requested size: 56.90726pt x 71.13188pt.
+<images/Image2.jpg, id=2, 87.18286pt x 110.7363pt>
+File: images/Image2.jpg Graphic file (type jpg)
+<use images/Image2.jpg>
+Package pdftex.def Info: images/Image2.jpg  used on input line 33.
+(pdftex.def)             Requested size: 56.00302pt x 71.13188pt.
+
+[1
+
+
+{C:/Users/Nour/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/Ima
+ge1.jpg> <./images/Image2.jpg>] (page1.aux) ) 
+Here is how much of TeX's memory you used:
+ 5296 strings out of 492946
+ 78369 string characters out of 3126710
+ 151162 words of memory out of 3000000
+ 9089 multiletter control sequences out of 15000+200000
+ 17096 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,10n,42p,274b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Nour\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Nour\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk> <C:\Users\Nour\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Us
+ers\Nour\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.p
+k> <C:\Users\Nour\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cti1728.pk> <C:\Users\Nour\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx2074.pk> <C:\Users\Nour\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecxc1728.pk> <C:\Users\Nour\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk>
+Output written on page1.pdf (1 page, 65918 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
